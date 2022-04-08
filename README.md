@@ -1,11 +1,15 @@
-# 👋 Hello, I’m Katherine Miraval
-- 💻 Systems Engineer based in Lima, Perú
-- 🎓 I have a bachelor's degree in Systems Engineering from [National University of San Marcos](https://unmsm.edu.pe/)
-- 👩‍💻 I'm currently working at LatamReady as a Backend Developer
-- 💎 I'm a volunteer of the community of students called Celid as a Full-stack Developer
+<h1>👋 Hello, I’m Katherine Miraval</h1>
+<img align='right' src="https://media.giphy.com/media/MAcqfBGahLB7WYGeBZ/giphy.gif" width="200">
+
+<ul>
+  <li>💻 Systems Engineer based in Lima, Perú</li>
+  <li>🎓 I have a bachelor's degree in Systems Engineering from <a href="https://unmsm.edu.pe/">National University of San Marcos</a></li>
+  <li>👩‍💻 I'm currently working at LatamReady as a Backend Developer</li>
+  <li>💎 I'm a volunteer of the community of students called Celid as a Full-stack Developer</li>
+</ul>
 <br/>
 
-## 📫 Contact with me
+<h2 align="left" id="kattymmc-tech">📫 Contact with me</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katherine.miraval@unmsm.com)](mailto:katherine.miraval@unmsm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-kattymmc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)](https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)
@@ -136,9 +140,10 @@ Tools, languages and other things that I like to work with
 <br/>
 
 ## 📈 My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kattymmc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kattymmc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Katty's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattymmc&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kattymmc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
