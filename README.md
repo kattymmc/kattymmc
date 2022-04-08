@@ -4,6 +4,7 @@
 - 👩‍💻 I'm currently working at LatamReady as a Backend Developer
 - 💎 I'm a volunteer of the community of students called Celid as a Full-stack Developer
 <br/>
+
 ## 📫 Contact with me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katherine.miraval@unmsm.com)](mailto:katherine.miraval@unmsm.com)
@@ -133,6 +134,7 @@ Tools, languages and other things that I like to work with
   </tr>
 </table>
 <br/>
+
 ## 📈 My GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kattymmc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
