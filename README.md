@@ -1,5 +1,5 @@
 <h1>👋 Hello, I’m Katherine Miraval</h1>
-<img align='right' src="https://media.giphy.com/media/MAcqfBGahLB7WYGeBZ/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/MAcqfBGahLB7WYGeBZ/giphy.gif" width="180">
 
 <ul>
   <li>💻 Systems Engineer based in Lima, Perú</li>
