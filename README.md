@@ -4,7 +4,7 @@
 <ul>
   <li>💻 Systems Engineer based in Lima, Perú</li>
   <li>🎓 I have a bachelor's degree in Systems Engineering from <a href="https://unmsm.edu.pe/">National University of San Marcos</a></li>
-  <li>👩‍💻 I'm currently working at LatamReady as a Backend Developer</li>
+  <li>👩‍💻 Currently working at LatamReady as a SuiteCloud Developer</li>
   <li>💎 I'm a volunteer of the community of students called Celid as a Full-stack Developer</li>
 </ul>
 <br/>
