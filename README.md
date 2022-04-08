@@ -9,115 +9,115 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/javascript.png" width="48" height="48" alt="JavaScript" />
+        <img src="/logos/javascript.png" width="55" height="55" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/html.png" width="48" height="48" alt="Html" />
+        <img src="/logos/html.png" width="55" height="55" alt="Html" />
       </a>
       <br>HTML
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/icon_nodejs.png" width="48" height="48" alt="NodeJS" />
+        <img src="/logos/icon_nodejs.png" width="55" height="55" alt="NodeJS" />
       </a>
       <br>Node JS
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/css.png" width="48" height="48" alt="CSS" />
+        <img src="/logos/css.png" width="55" height="55" alt="CSS" />
       </a>
       <br>CSS
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/bootstrap-logo-vector.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="/logos/bootstrap-logo-vector.svg" width="55" height="55" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/angular.png" width="48" height="48" alt="Angular" />
+        <img src="/logos/angular.png" width="55" height="55" alt="Angular" />
       </a>
       <br>Angular
     </td>
   </tr>
   <tr>
-    <td align="center" width="100"> 
+    <td align="center" width="110"> 
       <a href="#kattymmc-tech" >
-        <img src="/logos/reactjs.png" width="48" height="48" alt="ReactJS" />
+        <img src="/logos/reactjs.png" width="55" height="55" alt="ReactJS" />
       </a>
       <br>React JS
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech" >
-        <img src="/logos/typescript.png" width="48" height="48" alt="Typescript" />
+        <img src="/logos/typescript.png" width="55" height="55" alt="Typescript" />
       </a>
       <br>Typescript
     </td>
-    <td align="center"  width="100">
+    <td align="center"  width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/c++.png" width="48" height="48" alt="C++" />
+        <img src="/logos/c++.png" width="55" height="55" alt="C++" />
       </a>
       <br>C++
     </td>
-    <td align="center"  width="100">
+    <td align="center"  width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/python.png" width="48" height="48" alt="Python" />
+        <img src="/logos/python.png" width="55" height="55" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/django.png" width="48" height="48" alt="Django" />
+        <img src="/logos/django.png" width="55" height="55" alt="Django" />
       </a>
       <br>Django
     </td>
-    <td align="center"  width="100">
+    <td align="center"  width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/git.png" width="48" height="48" alt="Git" />
+        <img src="/logos/git.png" width="55" height="55" alt="Git" />
       </a>
       <br>Git
     </td>
   </tr>
    <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/java.png" width="48" height="48" alt="Java" />
+        <img src="/logos/java.png" width="55" height="55" alt="Java" />
       </a>
       <br>Java
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/mongodb.png" width="48" height="48" alt="MongoDB" />
+        <img src="/logos/mongodb.png" width="55" height="55" alt="MongoDB" />
       </a>
       <br>Bash
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/spring.png" width="45" height="45" alt="Spring" />
+        <img src="/logos/spring.png" width="55" height="55" alt="Spring" />
       </a>
       <br>Spring
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/sql.png" width="48" height="48" alt="SQL" />
+        <img src="/logos/sql.png" width="55" height="55" alt="SQL" />
       </a>
       <br>SQL
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/php.png" width="48" height="48" alt="PHP" />
+        <img src="/logos/php.png" width="55" height="55" alt="PHP" />
       </a>
       <br>Material ui
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#kattymmc-tech">
-        <img src="/logos/linux.png" width="48" height="48" alt="Linux" />
+        <img src="/logos/linux.png" width="55" height="55" alt="Linux" />
       </a>
       <br>Linux
     </td>
