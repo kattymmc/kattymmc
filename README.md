@@ -6,9 +6,9 @@
 
 ## Follow Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)](https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)
+[![Gmail Badge](https://img.shields.io/badge/-katherine.miraval@unmsm.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katherine.miraval@unmsm.com)](mailto:katherine.miraval@unmsm.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kattymmc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)](https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/kattymmc)](https://github.com/kattymmc)
-[![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=xtearsofgold "Follow on Twitter")
 
 <h2 align="left" id="kattymmc-tech">Technologies & Tools</h2>
 
