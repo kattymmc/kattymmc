@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Katherine Miraval
-- 💻 I'm a Systems Engineer based in Lima, Perú
-- 🎓 I have a bachelor's degree in Systems Engineering from Universidad Nacional Mayor de San Marcos.
+- 💻 Systems Engineer based in Lima, Perú
+- 🎓 I have a bachelor's degree in Systems Engineering from [National University of San Marcos](https://unmsm.edu.pe/)
 - 👩‍💻 I'm currently working at LatamReady as a Backend Developer
 - 💎 I'm a volunteer of the community of students called Celid as a Full-stack Developer
 <br/>
