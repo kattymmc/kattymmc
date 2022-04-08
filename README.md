@@ -4,7 +4,7 @@
 - 👩‍💻 I’m currently working at LatamReady
 - 🖱 Connect with me on [Linkedin](https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)
 
-<h2 align="left" id="kattymmc-tech">Favorite Tech</h2>
+<h2 align="left" id="kattymmc-tech">Technologies & Tools</h2>
 > Tools, languages and other things that I like to work with
 
 <table align="center">
@@ -123,6 +123,9 @@
     </td>
   </tr>
 </table>
+
+## 📈 My GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kattymmc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 kattymmc/kattymmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
