@@ -1,13 +1,20 @@
 # 👋 Hello, I’m Katherine Miraval
-- 💻 I’m a Systems Engineer based in Lima, Perú
+- 💻 I'm a Systems Engineer based in Lima, Perú
 - 🎓 I have a bachelor's degree in Systems Engineering from Universidad Nacional Mayor de San Marcos.
-- 👩‍💻 I’m currently working at LatamReady
-- 🖱 Connect with me on [Linkedin](https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)
+- 👩‍💻 I'm currently working at LatamReady as a Backend Developer
+- 💎 I'm a volunteer of the community of students called Celid as a Full-stack Developer
+
+## Follow Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)](https://www.linkedin.com/in/katherine-mayt%C3%A9-miraval-cabrera-6aa8a2140/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/kattymmc)](https://github.com/kattymmc)
+[![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=xtearsofgold "Follow on Twitter")
 
 <h2 align="left" id="kattymmc-tech">Technologies & Tools</h2>
-> Tools, languages and other things that I like to work with
 
-<table align="center">
+Tools, languages and other things that I like to work with
+
+<table>
   <tr>
     <td align="center" width="110">
       <a href="#kattymmc-tech">
@@ -126,6 +133,10 @@
 
 ## 📈 My GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kattymmc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kattymmc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 kattymmc/kattymmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
