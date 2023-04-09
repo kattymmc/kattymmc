@@ -2,10 +2,10 @@
 <img align='right' src="https://media.giphy.com/media/MAcqfBGahLB7WYGeBZ/giphy.gif" width="180">
 
 <ul>
-  <li>💻 Systems Engineer based in Lima, Perú</li>
+  <li>💻 Full-stack devloper based in Lima, Perú</li>
   <li>🎓 I have a bachelor's degree in Systems Engineering from <a href="https://unmsm.edu.pe/">National University of San Marcos</a></li>
-  <li>👩‍💻 Currently working at LatamReady as a SuiteCloud Developer</li>
-  <li>💎 I'm a volunteer of the community of students called Celid as a Full-stack Developer</li>
+  <li>👩‍💻 Currently working at LatamReady as a BackEnd Developer</li>
+  <li>💎 I'm a volunteer of the community of students called Celid as a Tech Manager</li>
 </ul>
 <br/>
 
